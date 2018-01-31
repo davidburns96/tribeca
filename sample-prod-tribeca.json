@@ -33,4 +33,10 @@
     "BitfinexKey": "NULL",
     "BitfinexSecret": "NULL",
     "BitfinexOrderDestination": "Bitfinex"
+    
+    "BinanceUrl": "https://binance.com/",
+    "BinanceApiKey": "NULL",
+    "BinanceOrderDestination": "https://api.binance.com/",
+    
+    
 }
